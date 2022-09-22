@@ -1,0 +1,33 @@
+{
+    "name": "Movement",
+    "maps": [
+        {
+            "name": "Plaer",
+            "id": "dcb9e71f-0b2c-447d-8b0d-60a770b2118c",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Value",
+                    "id": "150bff4b-9d37-49ad-a444-e3e7c9f09ef1",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "9f4ed59f-1c90-46dd-846c-0a24cebb9323",
+                    "path": "<Gamepad>/leftStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
